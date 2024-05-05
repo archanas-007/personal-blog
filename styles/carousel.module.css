@@ -1,0 +1,13 @@
+.itemP > img {
+    object-fit: contain;
+    height: 30vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.caption {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.308);
+    text-align: center;
+    color: white
+}
